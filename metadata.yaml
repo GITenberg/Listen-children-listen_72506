@@ -1,0 +1,36 @@
+_repo: Listen-children-listen_72506
+_version: 0.0.1
+alternative_title: Listen, children, listen
+creator:
+  author:
+    agent_name: West, Wallace
+    alias: West, Wallace George
+    birthdate: 1900
+    deathdate: 1980
+    gutenberg_agent_id: '33900'
+    url: http://www.gutenberg.org/2009/agents/33900
+    wikipedia: https://en.wikipedia.org/wiki/Wallace_West
+description: Title punctuation differs between the table of contents of the magazine
+  (which only uses commas) and where the story appears in the magazine.
+gutenberg_issued: '2023-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72506'
+language: en
+pgterms:marc905: 20231216032456west
+pgterms:marc906: '1953'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bKing-Size Publications, Inc., $c1953.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Horror tales'
+- !lcsh 'Families -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Listen, children ... listen!
+url: http://www.gutenberg.org/ebooks/72506
