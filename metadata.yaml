@@ -1,6 +1,9 @@
 _repo: Listen-children-listen_72506
 _version: 0.1.0
 alternative_title: Listen, children, listen
+covers:
+- cover_type: archival
+  image_path: 72506-h/images/cover.jpg
 creator:
   author:
     agent_name: West, Wallace
@@ -12,6 +15,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Wallace_West
 description: Title punctuation differs between the table of contents of the magazine
   (which only uses commas) and where the story appears in the magazine.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72506#Listen-children-listen
 gutenberg_issued: '2023-12-25'
 gutenberg_type: Text
 identifiers:
